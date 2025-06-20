@@ -1,0 +1,25 @@
+[*]
+[*] GTKWave Analyzer v3.3.104 (w)1999-2020 BSI
+[*] Fri Jun 20 01:55:47 2025
+[*]
+[dumpfile] "/home/krushna_dev/snap/code/verilog_codes/counters/up_counter/counter.vcd"
+[dumpfile_mtime] "Fri Jun 20 01:49:19 2025"
+[dumpfile_size] 1578
+[savefile] "/home/krushna_dev/snap/code/verilog_codes/counters/up_counter/output_gtk_waveform.gtkw"
+[timestart] 0
+[size] 1000 600
+[pos] -1 -1
+*-5.125389 39 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1
+[treeopen] tb_3_bit_up_counter.
+[sst_width] 233
+[signals_width] 123
+[sst_expanded] 1
+[sst_vpaned_height] 144
+@28
+tb_3_bit_up_counter.clk
+@25
+tb_3_bit_up_counter.out[2:0]
+@22
+tb_3_bit_up_counter.rst
+[pattern_trace] 1
+[pattern_trace] 0
