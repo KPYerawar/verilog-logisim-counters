@@ -1,0 +1,23 @@
+[*]
+[*] GTKWave Analyzer v3.3.104 (w)1999-2020 BSI
+[*] Fri Jun 20 16:23:40 2025
+[*]
+[dumpfile] "(null)"
+[savefile] "/home/krushna_dev/snap/code/verilog_codes/counters/ring_counter_4_bit/gtkwave_output/gtkwave_ring_counter.gtkw"
+[timestart] 0
+[size] 1064 600
+[pos] -1 -1
+*-5.569378 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1
+[sst_width] 233
+[signals_width] 94
+[sst_expanded] 1
+[sst_vpaned_height] 144
+@28
+tb_ring.clk
+@29
+tb_ring.out[3:0]
+@28
+tb_ring.rst
+tb_ring.set3
+[pattern_trace] 1
+[pattern_trace] 0
