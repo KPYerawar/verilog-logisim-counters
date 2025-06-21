@@ -1,0 +1,31 @@
+[*]
+[*] GTKWave Analyzer v3.3.104 (w)1999-2020 BSI
+[*] Sat Jun 21 09:44:20 2025
+[*]
+[dumpfile] "/home/krushna_dev/snap/code/verilog_codes/counters/johnson_counter.v/code_and_outputfiles/tb_johnson_output.vcd"
+[dumpfile_mtime] "Sat Jun 21 09:43:19 2025"
+[dumpfile_size] 1701
+[savefile] "/home/krushna_dev/snap/code/verilog_codes/counters/johnson_counter.v/gtkwave_file_ss/gtkwave_output.gtkw"
+[timestart] 0
+[size] 1296 704
+[pos] -101 -101
+*-6.118876 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1
+[treeopen] tb_johnson_counter.
+[sst_width] 233
+[signals_width] 94
+[sst_expanded] 1
+[sst_vpaned_height] 180
+@28
+tb_johnson_counter.clk
+tb_johnson_counter.rst
+@800023
+tb_johnson_counter.out[3:0]
+@29
+(0)tb_johnson_counter.out[3:0]
+(1)tb_johnson_counter.out[3:0]
+(2)tb_johnson_counter.out[3:0]
+(3)tb_johnson_counter.out[3:0]
+@1001201
+-group_end
+[pattern_trace] 1
+[pattern_trace] 0
